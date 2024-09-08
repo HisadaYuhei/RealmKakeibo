@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		04F06CE12C8787810099AC38 /* RealmKakeibo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RealmKakeibo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04F06CE12C8787810099AC38 /* RealmKakeibo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = RealmKakeibo.app; path = "/Users/yuhei/Desktop/iPhoneアプリ/RealmKakeibo/build/Debug-iphoneos/RealmKakeibo.app"; sourceTree = "<absolute>"; };
 		04F06CE42C8787810099AC38 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04F06CE62C8787810099AC38 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		04F06CE82C8787810099AC38 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -51,16 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				04F06CE32C8787810099AC38 /* RealmKakeibo */,
-				04F06CE22C8787810099AC38 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		04F06CE22C8787810099AC38 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				04F06CE12C8787810099AC38 /* RealmKakeibo.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		04F06CE32C8787810099AC38 /* RealmKakeibo */ = {
@@ -131,7 +122,7 @@
 			packageReferences = (
 				04F06CF82C8787CD0099AC38 /* XCRemoteSwiftPackageReference "realm-swift" */,
 			);
-			productRefGroup = 04F06CE22C8787810099AC38 /* Products */;
+			productRefGroup = 04F06CD82C8787810099AC38;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
